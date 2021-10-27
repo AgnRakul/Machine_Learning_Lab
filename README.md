@@ -28,5 +28,5 @@
         Program 9
     </a>
     <a href="https://github.com/RakulAgn/Machine_Learning_Lab/blob/master/Program%2010/Lab_10.py">
-        Program 19
+        Program 10
     </a>
