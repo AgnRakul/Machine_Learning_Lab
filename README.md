@@ -3,7 +3,7 @@
    <a href="https://github.com/RakulAgn/Machine_Learning_Lab/blob/master/Program%201/Lab_1.py">
         Program 1
     </a>
-    <a href="https://github.com/RakulAgn/Machine_Learning_Lab/blob/master/Program%201/Lab_2.py">
+    <a href="https://github.com/RakulAgn/Machine_Learning_Lab/blob/master/Program%202/Lab_2.py">
         Program 2
     </a>
     <a href="https://github.com/RakulAgn/Machine_Learning_Lab/blob/master/Program%201/Lab_3.py">
