@@ -2,7 +2,7 @@ import csv
 num_attributes = 6
 a = []
 print("\n The Given Training Data Set \n")
-with open('ws.csv', 'r') as csvfile:
+with open('./Program 1/ws.csv', 'r') as csvfile:
  reader = csv.reader(csvfile)
  for row in reader:
     a.append (row)
